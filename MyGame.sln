@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDL3Implementation", "SDL3Implementation\SDL3Implementation.csproj", "{8F7CD801-29A6-4F70-80AD-5DEB123AF1FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{8F3243A9-3C9B-4B70-9DD7-C1EF640ED308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7CD801-29A6-4F70-80AD-5DEB123AF1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7CD801-29A6-4F70-80AD-5DEB123AF1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7CD801-29A6-4F70-80AD-5DEB123AF1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7CD801-29A6-4F70-80AD-5DEB123AF1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3243A9-3C9B-4B70-9DD7-C1EF640ED308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3243A9-3C9B-4B70-9DD7-C1EF640ED308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3243A9-3C9B-4B70-9DD7-C1EF640ED308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3243A9-3C9B-4B70-9DD7-C1EF640ED308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

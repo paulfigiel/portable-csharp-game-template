@@ -1,0 +1,10 @@
+.idea
+.DS_Store
+[Bb]in/
+[Oo]bj/
+*.user
+Unity Project/UserSettings
+Unity Project/Temp
+Unity Project/Logs
+Unity Project/Library
+Unity Project/Builds
